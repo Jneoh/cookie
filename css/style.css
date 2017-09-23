@@ -1,0 +1,27 @@
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+
+
+.recipes {
+	width: 40%;
+	float: left;
+}
+
+.cookie img {
+	max-width: 100%;
+}
+
+.leftbar {
+	width: 100%;
+	float: right;
+	margin: 0 auto;
+}
+
+.descripton {
+	border-top: 1px solid black
+	border-bottom: 1px solid black;
+}
